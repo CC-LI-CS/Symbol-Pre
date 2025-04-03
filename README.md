@@ -1,2 +1,2 @@
 # Symbol-based multilevel block $\tau$ preconditioners for multilevel block Toeplitz systems: GLT-based analysis and applications
-The examples EX1 & EX2 referenced in this document are derived from the article "Preconditioners for Symmetrized Toeplitz and Multilevel Toeplitz Matrices" by Pestana. Special thanks to Pestana for openly sharing the associated code, which is available at [jpestana/fracdiff.](https://github.com/jpestana/fracdiff)
+The examples EX1 and EX2 in this document are largely derived from the numerical examples in the paper Preconditioners for Symmetric Toeplitz and Multilevel Toeplitz Matrices (2019) by Pestana. The associated MATLAB code is publicly available at [jpestana/fracdiff.](https://github.com/jpestana/fracdiff)
